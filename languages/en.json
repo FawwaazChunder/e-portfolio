@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "item2": "/About me",
+        "item3": "/Skills",
+        "item4": "/Training",
+        "item5": "/Projects",
+        "item6": "/Contact"
+    },
+    "home": {
+        "home_text-1": "Hello! I'm",
+        "home_text-3": "Software Developer",
+        "parrafo-info": "Creative and motivated software engineering undergraduate student. Passionate about the environment and emerging technologies.As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I'm a Software Engineering undergraduate student. I focus on Backend programming.<br>I aspire to get a job in the Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+    },
+    "habilidades": {
+        "title": "Skills"
+    },
+    "formacion": {
+        "title": "Training",
+        "formacion1": "BSc (Hons) Software Engineering",
+        "tiempo-formacion1": "09/2021 - Present",
+        "formacion2": "Intern Software Developer",
+        "tiempo-formacion2": "07/2023 - 09/2023",
+        "formacion3": "Accounting for Commercial and Financial Transactions"
+    },
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Health & Fitness",
+        "info-proyecto1": "A website for people who likes to stay in good shape and be fit in their old age.It also provides details meals alog with their coach",
+        "title-proyecto2": "Car Rental System",
+        "info-proyecto2": "FA Rental offers diverse car rental options, including sedans, SUVs, hatchbacks, and sports cars, to meet all customer needs.",
+        "title-proyecto3": "Bus Transportation Tracking System",
+        "info-proyecto3": "Real-time tracking in Bus Transportation systems improves efficiency, reduces wait times, optimizes routes, and enhances passenger experience."
+    },
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}
